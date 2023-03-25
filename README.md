@@ -15,5 +15,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSfiqEqSuf-OsxsjJBt6eDxXk1mxtrLwNJ26lVuV
 2. the link to recruitment technical tests examples  
 on demand  
 
-3. 
+3. docker questions  
+https://letsfindcourse.com/docker-mcq/docker-container-mcq-questions-and-answers  
+
+4. autres plateformes  
+https://welovedevs.com/app/fr/discover  
 
