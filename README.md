@@ -5,6 +5,8 @@ All my new materials for Jedha Career Coaching classes
 1. How to use Chat GPT to write a "great and unique" cover letter ? 
 2. How to use ChatGPT to prepare for a datascience interview ?  
 link to openAI : https://chat.openai.com/chat  
+3. read recent datascientist job offers  
+4. play the recruiter role  
 
 ## Other material 😎  
 1. the link to my own quizz  
