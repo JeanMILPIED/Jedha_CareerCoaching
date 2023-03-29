@@ -1,7 +1,7 @@
 # Jedha_CareerCoaching
 All my new materials for Jedha Career Coaching classes
 
-## Build a network  
+## Build a network 🤝  
 1. Linkedin: connect - message - invite - post  
 2. Meetups: in Paris more than 10 meet ups , you can meet every week  
 3. hackathons:   
@@ -12,7 +12,8 @@ All my new materials for Jedha Career Coaching classes
 link to openAI : https://chat.openai.com/chat  
 3. read recent datascientist job offers  
 4. play the recruiter role  
-5. Have your own website on github pages : https://github.com/JeanMILPIED/JeanMILPIED.github.io#readme  
+    a. tricky questions: what you don't like?  
+6. Have your own website on github pages : https://github.com/JeanMILPIED/JeanMILPIED.github.io#readme  
 
 ## Other material 😎  
 1. the link to my own quizz  
