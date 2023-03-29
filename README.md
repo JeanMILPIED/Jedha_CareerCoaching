@@ -4,7 +4,14 @@ All my new materials for Jedha Career Coaching classes
 ## Build a network 🤝  
 1. Linkedin: connect - message - invite - post  
 2. Meetups: in Paris more than 10 meet ups , you can meet every week  
-3. hackathons:   
+3. hackathons:  
+
+## Newsletters  
+newsletter@rapidapi.com  
+https://www.blef.fr/data-news-week-23-12/?ref=data-news-newsletter  
+newsletter Data Gen  
+https://juhache.substack.com/  
+https://guriosity.com/
 
 ## New ideas to explore 🚀  
 1. How to use Chat GPT to write a "great and unique" cover letter ? 
