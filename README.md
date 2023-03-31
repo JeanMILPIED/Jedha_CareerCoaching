@@ -12,6 +12,18 @@ All my new materials for Jedha Career Coaching classes
 4. practice your coding more than 15min everyday: codinggames, ...  
 5. apply to jobs even if it is not mentionned junior  
 
+## Technical tests  
+1. Look if it has not already been done by somebody else  
+2. Make hypothesis, take initiatives  
+3. Go down to the final product and its impact: a model, decisions to make, next steps to test  
+4. Present your notebook professionally  
+
+## Technical interviews  
+1. if you are asked to explain a model, chose a simple one  
+2. if you don't know, say you don't know  
+3. prepare a lot before with little "cards"  
+4. prepare a project to show (jus in case)  
+
 ## Build a network 🤝  
 1. Linkedin: connect - message - invite - post  
 2. Meetups: in Paris more than 10 meet ups , you can meet every week  
