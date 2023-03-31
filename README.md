@@ -3,7 +3,7 @@ All my new materials for Jedha Career Coaching classes
 
 ## Check list  
 1. CV clean and readable and tested on a parsing platform  
-   a. keep your pas experience and give it a "data" colour  
+   a. keep your past experiences and give it a "data" colour  
    b. write your projects and the techniques used  
    c. try to fit on one page  
    d. make a pro photo  
