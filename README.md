@@ -1,10 +1,25 @@
 # Jedha_CareerCoaching
-All my new materials for Jedha Career Coaching classes
+All my new materials for Jedha Career Coaching classes  
+
+## Check list  
+1. CV clean and readable and tested on a parsing platform  
+   a. keep your pas experience and give it a "data" colour  
+   b. write your projects and the techniques used  
+   c. try to fit on one page  
+   d. make a pro photo  
+   e. link to linkedin, link to github, link to portfolio (github is a good one)  
+3. Github clean with your best projects (the one you are more proud of)  
+4. practice your coding more than 15min everyday: codinggames, ...  
+5. apply to jobs even if it is not mentionned junior  
 
 ## Build a network 🤝  
 1. Linkedin: connect - message - invite - post  
 2. Meetups: in Paris more than 10 meet ups , you can meet every week  
-3. hackathons:  
+    a. Paris Data Ladies  
+    b. NLP meetup  
+    c. Paris AI  
+4. hackathons: check on the web  
+5. run a Kaggle competition in a team "world wide"    
 
 ## Newsletters  
 newsletter@rapidapi.com  
@@ -19,7 +34,7 @@ https://guriosity.com/
 link to openAI : https://chat.openai.com/chat  
 3. read recent datascientist job offers  
 4. play the recruiter role  
-    a. tricky questions: what you don't like?  
+    a. tricky questions: what you don't like?  how would you react if your boss tells you to do in its own way ? How would you communicate a bad result ?  
 6. Have your own website on github pages : https://github.com/JeanMILPIED/JeanMILPIED.github.io#readme  
 
 ## Other material 😎  
@@ -27,7 +42,7 @@ link to openAI : https://chat.openai.com/chat
 https://docs.google.com/forms/d/e/1FAIpQLSfiqEqSuf-OsxsjJBt6eDxXk1mxtrLwNJ26lVuVuw2PU4ZOfw/viewform?usp=share_link  
 
 2. the link to recruitment technical tests examples  
-on demand  
+In the session files drive    
 
 3. docker questions  
 https://letsfindcourse.com/docker-mcq/docker-container-mcq-questions-and-answers  
